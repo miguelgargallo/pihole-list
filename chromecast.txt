@@ -1,0 +1,7 @@
+android.clients.google.com
+updates.google.com
+ota.googlezip.net
+dl.google.com
+android.googleapis.com
+ota-tv.intsmarthub.com
+ota-dl.intsmarthub.com
